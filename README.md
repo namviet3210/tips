@@ -26,19 +26,11 @@ The following **additional** features are implemented:
 - [x] split the bill to 2,3 and 4 people on the main scene
 - [x] "Reset to default" button in second scene to reset tip percentage back to default value 18%, 20% and 25%
 
-## Video Walkthrough 
+## Screenshots 
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it: 
- 
-> `![Video Walkthrough](walkthrough.gif)` 
- 
-> You can also upload your image to imgur.com and embed the link here.
-
-Here's a walkthrough of implemented user stories:
-
-![Video Walkthrough](path/to/your/gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Alt text](/Screenshot1.PNG?raw=true "Scene 1 - Initialized")
+![Alt text](/Screenshot2.PNG?raw=true "Scene 1 - Calculated")
+![Alt text](/Screenshot3.PNG?raw=true "Scene 2 - Settings")
 
 ## Notes
 
