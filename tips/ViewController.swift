@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         
         billField.becomeFirstResponder()
     
-    
+        
     }
 
     override func didReceiveMemoryWarning() {
@@ -129,5 +129,17 @@ class ViewController: UIViewController {
         print("view did disappear")
     }
     
-}
+    
+  // Optionally initialize the property to a desired starting value
+  //  self.firstView.alpha = 0
+  //  self.secondView.alpha = 1
+  //  UIView.animateWithDuration(0.4, animations: {
+ // This causes first view to fade in and second view to fade out
+ //   self.firstView.alpha = 1
+ //   self.secondView.alpha = 0
+ //   })
+    
 
+
+    
+}
