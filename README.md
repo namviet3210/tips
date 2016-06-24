@@ -1,11 +1,11 @@
 # Pre-work - *tips*
-
+ver 1.0
 
 **Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **nhkhang@humg.net**
 
-Time spent: **10** hours spent in total
+Time spent: **11** hours spent in total
 
 ## User Stories
 
@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 
 - [x] split the bill to 2,3 and 4 people on the main scene
 - [x] "Reset to default" button in second scene to reset tip percentage back to default value 18%, 20% and 25%
+- [x] Check user input, limit only number (decimal value)
 
 ## Screenshots 
 
